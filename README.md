@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mastering LLM Applications with LangChain and Hugging Face
 
 Practical insights into LLM deployment and use cases.
@@ -24,3 +25,6 @@ As the book contains both theoretical and practical approaches, it will help the
 • Creating chatbots using custom data using open source LLMs without spending a single penny.
 
 • Integration of chatbots with real-world applications like Telegram.
+=======
+# MasteringLLMApplications
+>>>>>>> 9ac4cef8b7210a3078139196d9a46ee801c1468a
