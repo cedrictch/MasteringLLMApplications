@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 # ======================================================================
 # Download required data
-nltk.download("punkt")
+nltk.download("punkt_tab")
 
 
 # ======================================================================

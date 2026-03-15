@@ -11,6 +11,9 @@ import random  # Import the random module
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 import torch
 
+
+nltk.download("movie_reviews")
+
 # ======================================================================
 # Scikit-Learn
 print("*"*25)

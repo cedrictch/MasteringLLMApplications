@@ -10,9 +10,9 @@ print("Below example of NER is using NLTK package")
 
 # This is one time only. Not required to run every time.
 # Once you have got the chunker you can comment the code.
-nltk.download("maxent_ne_chunker")
+nltk.download("maxent_ne_chunker_tab")
 nltk.download("words")
-nltk.download("averaged_perceptron_tagger")
+nltk.download("averaged_perceptron_tagger_eng")
 
 # Run below code from terminal after activating virtual environment
 """ python -m spacy download en_core_web_sm """
