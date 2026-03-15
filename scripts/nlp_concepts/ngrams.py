@@ -4,6 +4,10 @@ from textblob import TextBlob
 from sklearn.feature_extraction.text import CountVectorizer
 from transformers import AutoTokenizer
 
+import nltk
+nltk.download("punkt_tab")
+
+
 # ======================================================================
 # NLTK
 print("*" * 25)
